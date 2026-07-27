@@ -16,7 +16,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-about.svg" width="100%" alt="About" />
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-about.svg?v=2" width="100%" alt="About" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-about.svg" width="100%" alt="B.Tech in Computer Science Engineering @ PES University · I build full-stack web applications with the MERN stack, Django, FastAPI and Next.js · Currently exploring Computer Vision, NLP and Prompt Engineering · Open to collaboration on interesting projects and new opportunities" />
@@ -28,7 +28,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-stack.svg" width="100%" alt="Tech Stack" />
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-stack.svg?v=2" width="100%" alt="Tech Stack" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-languages.svg" width="49%" alt="Languages: Python, C, JavaScript, HTML5, CSS3" />
@@ -45,7 +45,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-connect.svg" width="100%" alt="Connect" />
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-connect.svg?v=2" width="100%" alt="Connect" />
 
 <div align="center">
   <a href="mailto:harshakamaraj2006@gmail.com">
