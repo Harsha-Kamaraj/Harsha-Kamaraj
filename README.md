@@ -62,9 +62,9 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsha-Kamaraj&style=flat-square&color=1F2A44&label=profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harsha-Kamaraj.Harsha-Kamaraj&left_color=%230D1117&right_color=%235B9DF9&left_text=profile%20views" alt="Profile views" />
 </div>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/footer.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/footer.svg?v=3" width="100%" alt="" />

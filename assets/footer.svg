@@ -1,66 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" width="1200" height="104" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="">
 <defs>
-<clipPath id="fc"><rect width="1200" height="104" rx="18"/></clipPath>
+<clipPath id="fc"><rect x="0.5" y="0.5" width="1199" height="95" rx="18"/></clipPath>
 <filter id="fm" x="-70%" y="-70%" width="240%" height="240%" color-interpolation-filters="sRGB">
-  <feGaussianBlur stdDeviation="64"/>
+  <feGaussianBlur stdDeviation="58"/>
 </filter>
 <linearGradient id="fa" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
-  <stop offset="26%" stop-color="#5B9DF9" stop-opacity="0.85"/>
+  <stop offset="27%" stop-color="#5B9DF9" stop-opacity="0.80"/>
   <stop offset="52%" stop-color="#8B7CF6" stop-opacity="1"/>
-  <stop offset="76%" stop-color="#6366F1" stop-opacity="0.85"/>
+  <stop offset="77%" stop-color="#6366F1" stop-opacity="0.80"/>
   <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="fh" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-  <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.16"/>
+  <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.17"/>
   <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
 </linearGradient>
+<linearGradient id="fe" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.13"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.045"/>
+</linearGradient>
 <filter id="flg" x="-200%" y="-900%" width="500%" height="1900%" color-interpolation-filters="sRGB">
-  <feGaussianBlur stdDeviation="3.4" result="b"/>
+  <feGaussianBlur stdDeviation="3.2" result="b"/>
   <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
 </filter>
-<radialGradient id="fv" cx="50%" cy="34%" r="80%">
-  <stop offset="46%" stop-color="#0D1117" stop-opacity="0"/>
-  <stop offset="100%" stop-color="#0D1117" stop-opacity="0.72"/>
+<radialGradient id="fv" cx="50%" cy="50%" r="74%">
+  <stop offset="34%" stop-color="#0D1117" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#0D1117" stop-opacity="0.88"/>
 </radialGradient>
 <pattern id="fg" width="60" height="60" patternUnits="userSpaceOnUse">
-  <path d="M60 0H0V60" fill="none" stroke="#8FB8FF" stroke-opacity="0.032" stroke-width="1"/>
+  <path d="M60 0H0V60" fill="none" stroke="#8FB8FF" stroke-opacity="0.030" stroke-width="1"/>
 </pattern>
 </defs>
 <g clip-path="url(#fc)">
-  <rect width="1200" height="104" fill="#0D1117"/>
-  <g filter="url(#fm)">
-    <ellipse cx="250" cy="104" rx="250" ry="104" fill="#3B2A70" opacity="0.92">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 48,16; -30,-8; 0,0"
+  <rect width="1200" height="96" fill="#0D1117"/>
+  <g filter="url(#fm)" opacity="0.85">
+    <ellipse cx="300" cy="96" rx="230" ry="86" fill="#3B2A70" opacity="0.80">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 44,12; -28,-6; 0,0"
         dur="49s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
         keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
     </ellipse>
-    <ellipse cx="620" cy="112" rx="280" ry="104" fill="#242A6B" opacity="0.95">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 62,-12; -46,10; 0,0"
-        dur="52s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
+    <ellipse cx="620" cy="100" rx="260" ry="88" fill="#242A6B" opacity="0.88">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 54,-10; -40,8; 0,0"
+        dur="53s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
         keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
     </ellipse>
-    <ellipse cx="985" cy="104" rx="255" ry="104" fill="#122C57" opacity="0.92">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -58,14; 24,-10; 0,0"
+    <ellipse cx="950" cy="96" rx="240" ry="86" fill="#122C57" opacity="0.85">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -52,12; 22,-8; 0,0"
         dur="46s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
         keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
     </ellipse>
-    <ellipse cx="640" cy="128" rx="230" ry="64" fill="#16607F" opacity="0.50">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -68,4; 68,-4; 0,0"
+    <ellipse cx="640" cy="118" rx="210" ry="52" fill="#16607F" opacity="0.40">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -60,4; 60,-4; 0,0"
         dur="58s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
         keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
     </ellipse>
   </g>
-  <rect width="1200" height="104" fill="url(#fg)"/>
-  <rect width="1200" height="104" fill="url(#fv)"/>
+  <rect width="1200" height="96" fill="url(#fg)"/>
+  <rect width="1200" height="96" fill="url(#fv)"/>
   <g fill="#CFE2FF">
-    <circle cx="318" cy="58" r="1.4"><animate attributeName="opacity" values="0.10;0.46;0.10" dur="15s" repeatCount="indefinite"/></circle>
-    <circle cx="902" cy="50" r="1.2"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="19s" repeatCount="indefinite" begin="-7s"/></circle>
+    <circle cx="332" cy="54" r="1.3"><animate attributeName="opacity" values="0.10;0.42;0.10" dur="15s" repeatCount="indefinite"/></circle>
+    <circle cx="884" cy="46" r="1.1"><animate attributeName="opacity" values="0.08;0.34;0.08" dur="19s" repeatCount="indefinite" begin="-7s"/></circle>
   </g>
-  <!-- closing accent, mirrors the rule under the hero name -->
   <g filter="url(#flg)">
-    <rect x="520" y="21" width="160" height="1.6" rx="0.8" fill="url(#fa)">
+    <rect x="520" y="47.2" width="160" height="1.6" rx="0.8" fill="url(#fa)">
       <animate attributeName="opacity" values="0.72;1;0.72" dur="9s" repeatCount="indefinite"/>
       <animate attributeName="width" values="150;196;150" dur="9s" repeatCount="indefinite"
         calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
@@ -68,6 +71,7 @@
         calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
     </rect>
   </g>
-  <rect x="300" y="0.5" width="600" height="1" fill="url(#fh)"/>
+  <rect x="288" y="0.5" width="624" height="1" fill="url(#fh)"/>
 </g>
+<rect x="0.5" y="0.5" width="1199" height="95" rx="18" fill="none" stroke="url(#fe)" stroke-width="1"/>
 </svg>
