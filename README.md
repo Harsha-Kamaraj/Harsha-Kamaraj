@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/header.svg" width="100%" alt="Harsha K — Turning ideas into code, one commit at a time" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/header.svg?v=2" width="100%" alt="Harsha K — Turning ideas into code, one commit at a time" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshak2006/">
-    <img src="https://img.shields.io/badge/Full--Stack%20Developer-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="Full-Stack Developer" />
+    <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-1.svg" alt="Full-Stack Developer" />
   </a>
-  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6" alt="AI/ML Enthusiast" />
-  <img src="https://img.shields.io/badge/Tech%20Explorer-0D1117?style=for-the-badge&labelColor=0D1117&color=EC4899" alt="Tech Explorer" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-2.svg" alt="AI/ML Enthusiast" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-3.svg" alt="Tech Explorer" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D5A8E,100:5B4494&height=3" width="100%" alt="divider" />
