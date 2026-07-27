@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/header.svg?v=2" width="100%" alt="Harsha K — Turning ideas into code, one commit at a time" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/header.svg?v=3" width="100%" alt="Harsha K — Turning ideas into code, one commit at a time" />
 </div>
 
 <div align="center">
