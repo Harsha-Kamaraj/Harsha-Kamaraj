@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 162" width="470" height="162" role="img" aria-label="TOOLS: NumPy, Pandas, Matplotlib, Git, GitHub">
+<defs>
+<style type="text/css"><![CDATA[
+@font-face{font-family:'Inter';font-style:normal;font-weight:480;src:url(data:font/woff2;base64,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) format('woff2')}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;src:url(data:font/woff2;base64,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) format('woff2')}
+.t{font-family:'Inter',ui-sans-serif,system-ui,'Segoe UI',Helvetica,Arial,sans-serif}
+]]></style>
+<clipPath id="cc"><rect width="470" height="162" rx="16"/></clipPath>
+
+<linearGradient id="cg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.055"/>
+  <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0.022"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.010"/>
+</linearGradient>
+<linearGradient id="ce" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.155"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.050"/>
+</linearGradient>
+<linearGradient id="ch" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.17"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="ca" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#8B7CF6" stop-opacity="0.30"/>
+  <stop offset="100%" stop-color="#8B7CF6" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="cr" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#8B7CF6" stop-opacity="0.45"/>
+  <stop offset="100%" stop-color="#8B7CF6" stop-opacity="0"/>
+</linearGradient>
+<filter id="cs" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000000" flood-opacity="0.42"/>
+</filter>
+<filter id="cb" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="34"/>
+</filter>
+</defs>
+
+<g filter="url(#cs)">
+  <rect x="0.5" y="0.5" width="469" height="161" rx="16" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="469" height="161" rx="16" fill="url(#cg)"/>
+</g>
+<g clip-path="url(#cc)">
+  <ellipse cx="430" cy="10" rx="150" ry="80" fill="url(#ca)" filter="url(#cb)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="24s" repeatCount="indefinite"/>
+  </ellipse>
+</g>
+<rect x="0.5" y="0.5" width="469" height="161" rx="16" fill="none" stroke="url(#ce)" stroke-width="1"/>
+<rect x="103" y="1" width="263" height="1" fill="url(#ch)"/>
+
+<rect x="22" y="22" width="30" height="30" rx="9" fill="#8B7CF6" fill-opacity="0.13"/>
+<rect x="22.5" y="22.5" width="29" height="29" rx="8.5" fill="none" stroke="#8B7CF6" stroke-opacity="0.28" stroke-width="1"/>
+<g transform="translate(29,29)"><g transform="scale(0.6667)" fill="none" stroke="#8B7CF6" stroke-opacity="0.92" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round"><path d="M14.4 6.2a4.6 4.6 0 006.2 6L14 18.8a4.6 4.6 0 00-6.2-6.2L3.4 8.1a4.6 4.6 0 006-6.1z"/></g></g>
+
+<text class="t" x="65" y="41.2" font-size="12.0" font-weight="600"
+      letter-spacing="1.7" fill="#E9EFF7" fill-opacity="0.93">TOOLS</text>
+<text class="t" x="448" y="41.2" font-size="11" font-weight="480"
+      letter-spacing="0.8" text-anchor="end" fill="#8A97AB" fill-opacity="0.60">05</text>
+
+<rect x="22" y="64" width="426" height="1" fill="url(#cr)"/>
+
+<g transform="translate(22.0,97.0)">
+  <rect x="0.5" y="0.5" width="77.6" height="25" rx="7" fill="#FFFFFF" fill-opacity="0.052"/>
+  <rect x="0.5" y="0.5" width="77.6" height="25" rx="7" fill="none" stroke="#FFFFFF" stroke-opacity="0.085" stroke-width="1"/>
+  <g transform="translate(9.0,7.0) scale(0.5000)">
+    <path d="M10.315 4.876L6.3048 2.8517l-4.401 2.1965 4.1186 2.0683zm1.8381.9277l4.2045 2.1223-4.3622 2.1906-4.125-2.0718zm5.6153-2.9213l4.3193 2.1658-3.863 1.9402-4.2131-2.1252zm-1.859-.9329L12.021 0 8.1742 1.9193l4.0068 2.0208zm-3.0401 16.7443V24l4.7107-2.3507-.0053-5.3085zm4.7037-4.2057l-.0052-5.2528-4.6985 2.3356v5.2546zm5.6553-.9845v5.327l-4.0178 2.0052-.0029-5.3028zm0-1.8626V6.4214l-4.0253 2.001.0034 5.2633zM11.2062 11.571L8.0333 9.9756v6.895s-3.8804-8.2564-4.2399-8.998c-.0463-.0957-.2371-.2007-.2858-.2262C2.8118 7.2812.773 6.2485.773 6.2485V18.43l2.8204 1.5076v-6.3674s3.8392 7.3775 3.878 7.458c.0389.0807.4245.8582.8362 1.1314.5485.363 2.8992 1.7766 2.8992 1.7766z" fill="#8B7CF6" fill-opacity="0.88"/>
+  </g>
+  <text class="t" x="27.5" y="17.1" font-size="11.5" font-weight="480"
+        letter-spacing="0.1" fill="#C8D4E6" fill-opacity="0.90">NumPy</text>
+</g>
+<g transform="translate(108.1,97.0)">
+  <rect x="0.5" y="0.5" width="78.6" height="25" rx="7" fill="#FFFFFF" fill-opacity="0.052"/>
+  <rect x="0.5" y="0.5" width="78.6" height="25" rx="7" fill="none" stroke="#FFFFFF" stroke-opacity="0.085" stroke-width="1"/>
+  <g transform="translate(9.0,7.0) scale(0.5000)">
+    <path d="M16.922 0h2.623v18.104h-2.623zm-4.126 12.94h2.623v2.57h-2.623zm0-7.037h2.623v5.446h-2.623zm0 11.197h2.623v5.446h-2.623zM4.456 5.896h2.622V24H4.455zm4.213 2.559h2.623v2.57H8.67zm0 4.151h2.623v5.447H8.67zm0-11.187h2.623v5.446H8.67Z" fill="#8B7CF6" fill-opacity="0.88"/>
+  </g>
+  <text class="t" x="27.5" y="17.1" font-size="11.5" font-weight="480"
+        letter-spacing="0.1" fill="#C8D4E6" fill-opacity="0.90">Pandas</text>
+</g>
+<g transform="translate(195.2,97.0)">
+  <rect x="0.5" y="0.5" width="92.9" height="25" rx="7" fill="#FFFFFF" fill-opacity="0.052"/>
+  <rect x="0.5" y="0.5" width="92.9" height="25" rx="7" fill="none" stroke="#FFFFFF" stroke-opacity="0.085" stroke-width="1"/>
+  <g transform="translate(9.0,7.0) scale(0.5000)">
+    <path d="M2.6 19.8h18.8v1.9H2.6zM5 11.4h3.1v7.1H5zm5.5-4.6h3.1v11.7h-3.1zm5.4 2.9H19v8.8h-3.1z" fill="#8B7CF6" fill-opacity="0.88"/>
+  </g>
+  <text class="t" x="27.5" y="17.1" font-size="11.5" font-weight="480"
+        letter-spacing="0.1" fill="#C8D4E6" fill-opacity="0.90">Matplotlib</text>
+</g>
+<g transform="translate(296.6,97.0)">
+  <rect x="0.5" y="0.5" width="53.0" height="25" rx="7" fill="#FFFFFF" fill-opacity="0.052"/>
+  <rect x="0.5" y="0.5" width="53.0" height="25" rx="7" fill="none" stroke="#FFFFFF" stroke-opacity="0.085" stroke-width="1"/>
+  <g transform="translate(9.0,7.0) scale(0.5000)">
+    <path d="M23.546 10.93L13.067.452c-.604-.603-1.582-.603-2.188 0L8.708 2.627l2.76 2.76c.645-.215 1.379-.07 1.889.441.516.515.658 1.258.438 1.9l2.658 2.66c.645-.223 1.387-.078 1.9.435.721.72.721 1.884 0 2.604-.719.719-1.881.719-2.6 0-.539-.541-.674-1.337-.404-1.996L12.86 8.955v6.525c.176.086.342.203.488.348.713.721.713 1.883 0 2.6-.719.721-1.889.721-2.609 0-.719-.719-.719-1.879 0-2.598.182-.18.387-.316.605-.406V8.835c-.217-.091-.424-.222-.6-.401-.545-.545-.676-1.342-.396-2.009L7.636 3.7.45 10.881c-.6.605-.6 1.584 0 2.189l10.48 10.477c.604.604 1.582.604 2.186 0l10.43-10.43c.605-.603.605-1.582 0-2.187" fill="#8B7CF6" fill-opacity="0.88"/>
+  </g>
+  <text class="t" x="27.5" y="17.1" font-size="11.5" font-weight="480"
+        letter-spacing="0.1" fill="#C8D4E6" fill-opacity="0.90">Git</text>
+</g>
+<g transform="translate(358.1,97.0)">
+  <rect x="0.5" y="0.5" width="75.9" height="25" rx="7" fill="#FFFFFF" fill-opacity="0.052"/>
+  <rect x="0.5" y="0.5" width="75.9" height="25" rx="7" fill="none" stroke="#FFFFFF" stroke-opacity="0.085" stroke-width="1"/>
+  <g transform="translate(9.0,7.0) scale(0.5000)">
+    <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#8B7CF6" fill-opacity="0.88"/>
+  </g>
+  <text class="t" x="27.5" y="17.1" font-size="11.5" font-weight="480"
+        letter-spacing="0.1" fill="#C8D4E6" fill-opacity="0.90">GitHub</text>
+</g>
+</svg>

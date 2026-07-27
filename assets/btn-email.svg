@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 42" width="104" height="42" role="img" aria-label="Email">
+<defs>
+<style type="text/css"><![CDATA[
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAOMAA8AAAAABoAAAAMzAAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgU4cKgZgP1NUQVRaAEwRCAqDUIMfATYCJAMgCxIABCAFgToHIBs0BUieg3GbHIpTnUal2ObFOOVTiCBY+9/snn5TKglv4kk0inlSS4RIJnWVKB4axHc+/P7qz32YhZEEjbSG4o+QkjIc0f8A6bwjf+CcuigfWJZjNifY0xr4SNOHXvB0uvD9wAeBsp1J7JcdSZJGY/rsrQoMAlIKhVCphUC/VbiYtXEpOTA/2lJbDueTtQVlcD4nq6+EMwY6hfCr5NmC2kpoi9gQBHC+JKGUWqGVlmGwHhejgt1QCal4N6sHUBBORqUSbxA9iysq0R6Bm+7hcln+Sy5YqoXlY/DYivK1i9yaqApo38ef2LI1NRvXEKuiudbTB9ovOQ8IKA+wL8BMmkJoFZhEYwHqYnVdKwmAKyeL6wlBnK6XlZMIUGrjrBFkBNJGCGJRcgGFlBEJIEBCSfD1jGWgXyuldWRKVHTigfKbmR2rViIACNFpBKEFo6DBQ/AUMKig5ZCdYp0ZdB1nGPdBjTY9aKcOTR9+9OYN6XmLMJ+Gp4T0BAL10VfPLPOGtxpjrzECpp+on796lTe2B0Lm77nS8RaPovvzaw01LdW2Fs0222jw1E+yXJp7DWaQ7WkLXwneX98YvWdVHhXdnxbBfnj26fLsyPuR7eufcN249CRFtlApiWtrTlxyylSRqrfo9Dmz/vNT8lwjIsUuV1/98LCVj3RfCa9O33YcyM+cq/682j+Zl9HtYXgtsz48ojis//71JK0Etd4lkYNPhI+HR0SOHUYPMGKY/nkB9kOpVvTx/qhpGsxQKDsGQ5Ja5pes52yMFZX9y1H5BVv5ouOOX8yDUzWSjDCBr4c4/Mr/N7klhdmBYm//guQL6B37G8bNDgrhZoWFc7OCg7nZ4MzCoNb8pwtcgnjCMbsIgtLq/s4NL4lOyL+WVgX8bByaBvg74b6HlO71KccMFBIEf1o2iwpEL+uQKnC8rSJIAvPOYrmMlDTVoNAo0fgcBXcQtFagjCobkInMjT1oUao1w3gVIRg0zPrQZc4GMOXOBlK1mo2Aps33FAl1O2QpUKRBOZla+QqUKFKsXrYCFUpEqVJOKV21eiUUZMrZylaiVQFPPimZqN4uPVmWKhVkKtFA75ILAAA=) format('woff2')}
+.t{font-family:'Inter',ui-sans-serif,system-ui,'Segoe UI',Helvetica,Arial,sans-serif}
+]]></style>
+<clipPath id="bc"><rect width="104" height="42" rx="12"/></clipPath>
+
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.055"/>
+  <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0.022"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.010"/>
+</linearGradient>
+<linearGradient id="be" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.155"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.050"/>
+</linearGradient>
+<linearGradient id="bh" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.17"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="ba" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#5B9DF9" stop-opacity="0.30"/>
+  <stop offset="100%" stop-color="#5B9DF9" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="br" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#5B9DF9" stop-opacity="0.45"/>
+  <stop offset="100%" stop-color="#5B9DF9" stop-opacity="0"/>
+</linearGradient>
+<filter id="bs" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000000" flood-opacity="0.42"/>
+</filter>
+<filter id="bb" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="34"/>
+</filter>
+<linearGradient id="bt" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#5B9DF9" stop-opacity="0.20"/>
+  <stop offset="100%" stop-color="#5B9DF9" stop-opacity="0.03"/>
+</linearGradient>
+</defs>
+<g filter="url(#bs)">
+  <rect x="0.5" y="0.5" width="103" height="41" rx="12" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="103" height="41" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="103" height="41" rx="12" fill="url(#bt)"/>
+</g>
+<rect x="0.5" y="0.5" width="103" height="41" rx="12" fill="none" stroke="url(#be)" stroke-width="1"/>
+<rect x="21" y="1" width="62" height="1" fill="url(#bh)"/>
+<g transform="translate(18.0,13.0) scale(0.6667)">
+  <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#5B9DF9" fill-opacity="0.92"/>
+</g>
+<text class="t" x="45.0" y="25.6" font-size="13.0" font-weight="600"
+      letter-spacing="0.9" fill="#E9EFF7" fill-opacity="0.94">Email</text>
+</svg>

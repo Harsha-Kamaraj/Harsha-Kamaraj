@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="ABOUT">
+<defs>
+<style type="text/css"><![CDATA[
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAAOMAA8AAAAABlAAAAMxAAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgVocKgZgP1NUQVRaAEQRCAqDLIJzATYCJAMYCw4ABCAFgToHIBv+BEAehY1jGUmSFPmSAyzx8P9j876PSeJ0EokGp8O2kDSqRy/VU1+I3sVL3LfADps9BSZadQ+hA8OHUKIB/oEL/v83n6PCBbiG+z2PGgvDLIHEQpq4LbGxxQP8IB8Elu5sT5xE7lXu529SgCaAhBAeIVDnKRU3FRyZCPXVtvpKGG/WF1XAeC+vsRrGOCD/R0iTkHaL6qshbdMrggAkQOAwRBFRjEgcmFeMJwDkQ5AvA+QdyBvacVwU5OxJti+b7+4udpDRs6CITBYY43JvY42ZYmzp9+CqPry+WPzLpIKH0oC7BbhlWbrHAWbl3+ELgIQDAQBMz0Ql4DL8JFUu/5MHqq/MIiCA4gJ/H9AliRBRLOhgQR9zWNvQTq7A0WZpIxFouzGvknzBEMjTRiCFG6RBIIghkwooYDDhByAACc62CZ+GYwuqRDFgQoykHBiLkZjrHe8wAkCgHBkQBEAT1MAxuANAEUDCYhBqc4ri4rKyosoSHVJtku1bD5MlNnYSWzNIDhJnMhObm+jd2EjEpuSK50tNbFPf1pa4JAkSQNQ2/vIhVz16JTHxYhe9O8+TSyBDxzc20Lu52UEKkKxKilWNv9wiESkhaUk0oeBWG8/tdYfuJ+gF3TeSXRCMWxKs7S+72l2NtTVokGUF8dptuW0sg39xX9ssKjtQkxHU2xgTKisTzc6lZK7UNdacel62L+qp4WJ/XVqAX3mrV4LVFamQGgffHP+UtppWBdiNFK87nTia9P3H0eQZXr/mqGTyj+9Zjsevfm0721r2cc++FUZGW/u5tvKPe/eUf6CR4Ic/Xqy/uPFD4gd+KJ2UGV36uXJL4lRW/NxyfEkJAPvJOiVxa2X5p/QogHMEivwvfn9Sz5Hx/CPKigL4ah6ZBfibMl+Bff64S/xbQAEDCPhwQblXJ9ilicJfSLnkS6H8fdiXgrEsGKOkFIqE0issg0CZKRYQqK4iHYuKYmBIQ6QjgiRp3hGy1HlXqDLn3SDKn/eFpPAt+UFcsnhFSjSplKdeiiJlSpRqlKBIlTL+alQqFKNWozIF8lTSlaBMuyJ2HGtMmEbU87B4NarkqcYC/J/AATAAAAA=) format('woff2')}
+.t{font-family:'Inter',ui-sans-serif,system-ui,'Segoe UI',Helvetica,Arial,sans-serif}
+]]></style>
+<linearGradient id="sr" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#5B9DF9" stop-opacity="0.38"/>
+  <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.09"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="ssq" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#5B9DF9" stop-opacity="0.22"/>
+  <stop offset="100%" stop-color="#5B9DF9" stop-opacity="0.05"/>
+</linearGradient>
+<filter id="sgl" x="-160%" y="-160%" width="420%" height="420%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="5"/>
+</filter>
+</defs>
+
+<circle cx="15" cy="28.0" r="15" fill="#5B9DF9" opacity="0.16" filter="url(#sgl)"/>
+<rect x="1" y="13.0" width="30" height="30" rx="9" fill="url(#ssq)"/>
+<rect x="1.5" y="13.5" width="29" height="29" rx="8.5" fill="none" stroke="#5B9DF9" stroke-opacity="0.30" stroke-width="1"/>
+<g transform="translate(8,20.0)"><g transform="scale(0.6667)" fill="none" stroke="#5B9DF9" stroke-opacity="0.95" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-1.8a4.2 4.2 0 00-4.2-4.2H8.2A4.2 4.2 0 004 19.2V21M12 11.4a4.2 4.2 0 100-8.4 4.2 4.2 0 000 8.4z"/></g></g>
+
+<text class="t" x="46" y="33.1" font-size="14.5" font-weight="600"
+      letter-spacing="3.6" fill="#E9EFF7" fill-opacity="0.95">ABOUT</text>
+
+<rect x="134" y="28" width="1062" height="1" fill="url(#sr)"/>
+</svg>

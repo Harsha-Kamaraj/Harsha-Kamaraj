@@ -1,77 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="">
-  <defs>
-    <clipPath id="fClip">
-      <rect width="1200" height="130" rx="22" />
-    </clipPath>
-
-    <filter id="fSoft" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="62" />
-    </filter>
-
-    <linearGradient id="fAccent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58A6FF" />
-      <stop offset="50%" stop-color="#8B5CF6" />
-      <stop offset="100%" stop-color="#EC4899" />
-    </linearGradient>
-
-    <pattern id="fGrid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1" />
-    </pattern>
-
-    <radialGradient id="fVignette" cx="50%" cy="50%" r="72%">
-      <stop offset="55%" stop-color="#0D1117" stop-opacity="0" />
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.85" />
-    </radialGradient>
-  </defs>
-
-  <g clip-path="url(#fClip)">
-    <rect width="1200" height="130" fill="#0D1117" />
-
-    <!-- same drifting colour field, mirrored so it reads as a bookend -->
-    <g filter="url(#fSoft)" opacity="0.9">
-      <circle cx="1000" cy="60" r="140" fill="#2563EB">
-        <animateTransform attributeName="transform" type="translate"
-          values="0,0; -190,30; -70,-24; 0,0" dur="17s" repeatCount="indefinite" calcMode="spline"
-          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
-      </circle>
-      <circle cx="600" cy="70" r="155" fill="#7C3AED">
-        <animateTransform attributeName="transform" type="translate"
-          values="0,0; 150,-32; -130,18; 0,0" dur="21s" repeatCount="indefinite" calcMode="spline"
-          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
-      </circle>
-      <circle cx="200" cy="64" r="140" fill="#DB2777">
-        <animateTransform attributeName="transform" type="translate"
-          values="0,0; 110,36; 210,-20; 0,0" dur="19s" repeatCount="indefinite" calcMode="spline"
-          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
-      </circle>
-      <circle cx="380" cy="96" r="110" fill="#0EA5E9" opacity="0.75">
-        <animateTransform attributeName="transform" type="translate"
-          values="0,0; 180,-50; -90,28; 0,0" dur="24s" repeatCount="indefinite" calcMode="spline"
-          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
-      </circle>
-    </g>
-
-    <rect width="1200" height="130" fill="url(#fGrid)" />
-    <rect width="1200" height="130" fill="url(#fVignette)" />
-
-    <g fill="#ffffff">
-      <circle cx="270" cy="42" r="2" opacity="0.45">
-        <animate attributeName="cy" values="42;24;42" dur="10s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0.12;0.6;0.12" dur="10s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="930" cy="52" r="2.2" opacity="0.4">
-        <animate attributeName="cy" values="52;32;52" dur="12s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0.1;0.55;0.1" dur="12s" repeatCount="indefinite" />
-      </circle>
-    </g>
-
-    <!-- breathing accent, mirrors the header underline -->
-    <rect y="98" height="3" rx="1.5" fill="url(#fAccent)" x="520" width="160">
-      <animate attributeName="width" values="150;300;150" dur="6s" repeatCount="indefinite" calcMode="spline"
-        keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" />
-      <animate attributeName="x" values="525;450;525" dur="6s" repeatCount="indefinite" calcMode="spline"
-        keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" />
-      <animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" width="1200" height="104" role="img" aria-label="">
+<defs>
+<clipPath id="fc"><rect width="1200" height="104" rx="18"/></clipPath>
+<filter id="fm" x="-70%" y="-70%" width="240%" height="240%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="64"/>
+</filter>
+<linearGradient id="fa" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+  <stop offset="26%" stop-color="#5B9DF9" stop-opacity="0.85"/>
+  <stop offset="52%" stop-color="#8B7CF6" stop-opacity="1"/>
+  <stop offset="76%" stop-color="#6366F1" stop-opacity="0.85"/>
+  <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="fh" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<filter id="flg" x="-200%" y="-900%" width="500%" height="1900%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="3.4" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<radialGradient id="fv" cx="50%" cy="34%" r="80%">
+  <stop offset="46%" stop-color="#0D1117" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#0D1117" stop-opacity="0.72"/>
+</radialGradient>
+<pattern id="fg" width="60" height="60" patternUnits="userSpaceOnUse">
+  <path d="M60 0H0V60" fill="none" stroke="#8FB8FF" stroke-opacity="0.032" stroke-width="1"/>
+</pattern>
+</defs>
+<g clip-path="url(#fc)">
+  <rect width="1200" height="104" fill="#0D1117"/>
+  <g filter="url(#fm)">
+    <ellipse cx="250" cy="104" rx="250" ry="104" fill="#3B2A70" opacity="0.92">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 48,16; -30,-8; 0,0"
+        dur="49s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
+        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    </ellipse>
+    <ellipse cx="620" cy="112" rx="280" ry="104" fill="#242A6B" opacity="0.95">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 62,-12; -46,10; 0,0"
+        dur="52s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
+        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    </ellipse>
+    <ellipse cx="985" cy="104" rx="255" ry="104" fill="#122C57" opacity="0.92">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -58,14; 24,-10; 0,0"
+        dur="46s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
+        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    </ellipse>
+    <ellipse cx="640" cy="128" rx="230" ry="64" fill="#16607F" opacity="0.50">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -68,4; 68,-4; 0,0"
+        dur="58s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.34;0.68;1"
+        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    </ellipse>
+  </g>
+  <rect width="1200" height="104" fill="url(#fg)"/>
+  <rect width="1200" height="104" fill="url(#fv)"/>
+  <g fill="#CFE2FF">
+    <circle cx="318" cy="58" r="1.4"><animate attributeName="opacity" values="0.10;0.46;0.10" dur="15s" repeatCount="indefinite"/></circle>
+    <circle cx="902" cy="50" r="1.2"><animate attributeName="opacity" values="0.08;0.38;0.08" dur="19s" repeatCount="indefinite" begin="-7s"/></circle>
+  </g>
+  <!-- closing accent, mirrors the rule under the hero name -->
+  <g filter="url(#flg)">
+    <rect x="520" y="21" width="160" height="1.6" rx="0.8" fill="url(#fa)">
+      <animate attributeName="opacity" values="0.72;1;0.72" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="150;196;150" dur="9s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
+      <animate attributeName="x" values="525;502;525" dur="9s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
     </rect>
   </g>
+  <rect x="300" y="0.5" width="600" height="1" fill="url(#fh)"/>
+</g>
 </svg>

@@ -4,95 +4,67 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshak2006/">
-    <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-1.svg" alt="Full-Stack Developer" />
+    <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-1.svg?v=2" alt="Full-Stack Developer" />
   </a>
-  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-2.svg" alt="AI/ML Enthusiast" />
-  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-3.svg" alt="Tech Explorer" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-2.svg?v=2" alt="AI/ML Enthusiast" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/badge-role-3.svg?v=2" alt="Tech Explorer" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D5A8E,100:5B4494&height=3" width="100%" alt="divider" />
+<br />
 
-## 👋 Hey, I'm Harsha K
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/divider.svg" width="100%" alt="" />
 
-- 🎓 **B.Tech in Computer Science Engineering** @ PES University
-- 💻 I build **full-stack web applications** with the MERN stack, Django, FastAPI and Next.js
-- 🤖 Currently exploring **Computer Vision, NLP and Prompt Engineering** — teaching machines to see and read
-- 🤝 Open to **collaboration** on interesting projects and **new opportunities**
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D5A8E,100:5B4494&height=3" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-about.svg" width="100%" alt="About" />
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-about.svg" width="100%" alt="B.Tech in Computer Science Engineering @ PES University · I build full-stack web applications with the MERN stack, Django, FastAPI and Next.js · Currently exploring Computer Vision, NLP and Prompt Engineering · Open to collaboration on interesting projects and new opportunities" />
+</div>
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-</p>
+<br />
 
-#### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/divider.svg" width="100%" alt="" />
 
-#### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="NLP" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Image%20Processing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Image Processing" />
-</p>
+<br />
 
-#### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-stack.svg" width="100%" alt="Tech Stack" />
 
-#### Tools
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-languages.svg" width="49%" alt="Languages: Python, C, JavaScript, HTML5, CSS3" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-frameworks.svg" width="49%" alt="Frameworks: React, Next.js, Node.js, Express, Django, FastAPI" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-aiml.svg" width="49%" alt="AI / ML: Computer Vision, NLP, Prompt Engineering, Image Processing" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-databases.svg" width="49%" alt="Databases: MongoDB, PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-tools.svg" width="49%" alt="Tools: NumPy, Pandas, Matplotlib, Git, GitHub" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/card-fundamentals.svg" width="49%" alt="Fundamentals: DSA, OOP, Operating Systems, Computer Networks" />
+</div>
 
-#### CS Fundamentals
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks" />
-</p>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D5A8E,100:5B4494&height=3" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/divider.svg" width="100%" alt="" />
 
-## 🌐 Connect With Me
+<br />
+
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/sec-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
   <a href="mailto:harshakamaraj2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/btn-email.svg" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/harshak2006/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/btn-linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Harsha-Kamaraj">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/btn-github.svg" alt="GitHub" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsha-Kamaraj&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harsha-Kamaraj&style=flat-square&color=1F2A44&label=profile+views" alt="Profile views" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/footer.svg" width="100%" alt="" />
+<br />
+
+<img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/footer.svg?v=2" width="100%" alt="" />

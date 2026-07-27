@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="CONNECT">
+<defs>
+<style type="text/css"><![CDATA[
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAANoAA8AAAAABjAAAAMPAAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgUYcKgZgP1NUQVRaAEwRCAqDGIJxATYCJAMYCw4ABCAFgToHIBvwBFGUDsp1ED8PbBvV+gqH0KUbH1gk2D60wkqwRvD8mjnv726OoaiIMFeElNloYKEq/AlTVAjGtel/AF/KXQtiBH1oXc0epIQHlUBVyE1GBT1xTf5vjfIK91wVJngVPsjfkF4Xjdt5aQsPaGADsam3TiikaX83j36kQCMgCaEQAvUW2CVfsWrDgP6jty6fNerE5coZo84evnreKDlUq4Vwx0lnKpfPa15f3YkACYRcUivUSubIscw2hRyo6qCgi3ihObSeSeJ+yE+pJ9lDhFHGSJnm4rHeYwDI839pl4Jiev4Sj6gmvfQiPV+ryJDkCOBPbCtvLBu03EDN4P92ar+kISA/ULzDSI1CqJWhU4YJ0oWLV27HHG6cOHk1Qpy6evhsLJGUtBsukGKuZoQgZqRdyCQploIACfFM0P1zc1CvVpIst9JmA1VxwU1v4OaNGy4AEKKqFoQSaEQJ1zEIyAEhhCRGjSUIKBRMYtHNCZR5eosv3t/fdyUcoAFXtLcHMpYdTR6CcCfuteOTqaA5kaftlomJw+kArgihrUSIGiU3vEIIIAQHro9Bxvsrt+IdgjJVT5UM0UFjLQGrRmGsaRh2/foecdMcX0nas+zIiV6kJhIJ5sahvtaxYoukuaSol+7e6Oe5+ASL0IF+1iZheDMSKSpkprX0yB7cU7zbup6vKrwobFq+7ldRTkPrxybDtkESIEI544YQDTokMijeqfxGYbaFnv0mSVJkDHYFVa1yB9RMGWtaRmqwKb+2qqn4/XVEaY6tfCTOJES+dPc22yISk2YTo156uqOe6S2BYsb3dcv17jf+G9wVyC2rjdbm+JMN/zFwDICfcfkVAH9L5RtBufpWLCIfMMgkEPy7YmlUAq48qRamlYolsab440T+3r1Sx1w3yolijbJAySixACyqsUcm8jpJM64lQqNmaYZW/dIcvcZJc9VaJi3RaN2Jlqq3wzYVJ1xz1mGX7VRxygknXVVWcc4py1xw1jGbXXRViDjqcHmksrXfVjHVjEtqratu0odtc8E5h52XAf95AQA=) format('woff2')}
+.t{font-family:'Inter',ui-sans-serif,system-ui,'Segoe UI',Helvetica,Arial,sans-serif}
+]]></style>
+<linearGradient id="sr" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.38"/>
+  <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.09"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="ssq" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.22"/>
+  <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.05"/>
+</linearGradient>
+<filter id="sgl" x="-160%" y="-160%" width="420%" height="420%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="5"/>
+</filter>
+</defs>
+
+<circle cx="15" cy="28.0" r="15" fill="#38BDF8" opacity="0.16" filter="url(#sgl)"/>
+<rect x="1" y="13.0" width="30" height="30" rx="9" fill="url(#ssq)"/>
+<rect x="1.5" y="13.5" width="29" height="29" rx="8.5" fill="none" stroke="#38BDF8" stroke-opacity="0.30" stroke-width="1"/>
+<g transform="translate(8,20.0)"><g transform="scale(0.6667)" fill="none" stroke="#38BDF8" stroke-opacity="0.95" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 13.6a4.4 4.4 0 006.6.5l2.6-2.6a4.4 4.4 0 10-6.2-6.2l-1.5 1.5M14.5 10.4a4.4 4.4 0 00-6.6-.5l-2.6 2.6a4.4 4.4 0 106.2 6.2l1.5-1.5"/></g></g>
+
+<text class="t" x="46" y="33.1" font-size="14.5" font-weight="600"
+      letter-spacing="3.6" fill="#E9EFF7" fill-opacity="0.95">CONNECT</text>
+
+<rect x="162" y="28" width="1034" height="1" fill="url(#sr)"/>
+</svg>
