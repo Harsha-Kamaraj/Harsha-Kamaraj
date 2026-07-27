@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=220&color=0:1E3A5F,100:3B2B63&text=Harsha%20K&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Turning%20ideas%20into%20code,%20one%20commit%20at%20a%20time&descSize=18&descAlignY=53&animation=scaleIn" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=220&color=0:3D6FB0,100:6B4CB0&text=Harsha%20K&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Turning%20ideas%20into%20code,%20one%20commit%20at%20a%20time&descSize=18&descAlignY=53&animation=scaleIn" width="100%" alt="banner" />
 </div>
 
 <div align="center">
@@ -95,4 +95,4 @@
   <img src="https://komarev.com/ghpvc/?username=Harsha-Kamaraj&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=speech&section=footer&height=120&color=0:1E3A5F,100:3B2B63" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=speech&section=footer&height=120&color=0:3D6FB0,100:6B4CB0" width="100%" alt="footer" />
