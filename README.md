@@ -62,7 +62,7 @@
 <br />
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harsha-Kamaraj.Harsha-Kamaraj&left_color=%230D1117&right_color=%235B9DF9&left_text=profile%20views" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/Harsha-Kamaraj/Harsha-Kamaraj/main/assets/status.svg" alt="Open to opportunities" />
 </div>
 
 <br />

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 34" width="224" height="34" role="img" aria-label="OPEN TO OPPORTUNITIES">
+<defs>
+<style type="text/css"><![CDATA[
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;src:url(data:font/woff2;base64,d09GMgABAAAAAARMAA8AAAAAB9QAAAP0AAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgg4cKgZgP1NUQVRaAFQRCAqFUIRnATYCJAMsCxgABCAFgToHIBtKBkAehXHDXYaYYnF9Hw2HV+Lh+bnXc29e8lOi6aqqATpAtTlAcIDGs7KbI/DADtA2B3japU0HyBkgPJ29oP4HUE8//f08/4ml33KRJiOOaBvgsAokEd75snEgrQMeNuBAbLaTpngPI+l2q9/if6TAICCF0CcE+i3nAV1vZuMCXIczEqNB7HgiFgViZwKTY0EMCt3/QqBc8jSWGAt0U5oFCKB86FCkVmilC1Bc0QgUGqa7bl/L7lON+u7n/Twi65lKG0Wtp7q/UaA0cp6qH+wMCQQXXQ8wjjLrXMrf9AAS9ZJyHrgVSeVzM4S+UnUFpNIZyL+wabOtM+yDANfe/iwTQPs2mwEElH2kK8A0GiG0KkwiYi7C+fikTEQDXDwenowgECeTA6MRAyBojOODIEMTHUIQS9MDQCVlGAIgQFLbFbINajUwqJWKaaYsOXDtBBN2nG7zbtuGFcshLB6C/tpGEAbAHGAArwFiIwAoQOc9icYxWHhGGTg4UOWWbSCLEeiS3ievXqbJWkmjzVjAcVeqQ/Mj5BqgiXzjbtS47B3Qy5WPbiEFtx9TVz28Cfk3HrhVXb+OFBweUlVeuwb5OE6dRV+F45B/7RoVDUJLt0VFwaTQR9JGxFSChBstnm4Rv5ub10d65KBOqnOlKc+YuuJ4WhbCjKaloUx2PjpkhCx/GsFQ1x60AunNo4c7jRX3KvoPHgLX1JUlx4B34oabL6Cs+sk837ZXNICPzJlqHu1Vp6N/Fl9w6ZO0mW2F54x+phgpmvJI0yH/hOJqlmPLVhZdP3xcdIvix46qIMLt4weQyvKRdxmb6RGvJqa8XgAZmVsZka8mJyJfRqbP7Dhv6mVe2r3auvS7r/OmE+7YYfmmOln29joZBcahPz9tGjot7bC2Nv3y64Tp2rtRWJ6Gboydg258vva4Xu2IIZH4Iehnm/kXVXee1EhOZuscVqHk4lGqah1goGVkna7iwDwuvSl/6WFvcc3xr9Hdfe9jSg8IWURK/9bwDJd0JQN3TT0b+2T53UphJ+Yuw+wQy7rAopITv2OBtPT3w8GHZz9Sf/SRdZW+vOVT33nqNV+nhlansDCv1yPyXaM+f7/1E105AG4+AATF2u+7WK0/vc5/CiIFwKfUsnoAvtXIvePcrd4jPQMqCYKfzt/M8DjFZhRgoIHaALFAb2glqHuCjJm2mLBaUitJY14V/rUFONePtRJQIDBgSf0a0qlnF6IolJCGQUoIAoOGeRUMuHgNHKR4TRTW8gZAY8MhGQKVbZxgwqSIFiiRO0yEMOGSOcPEiGAkTrQQ9uIlixAsUDQBziJkwihS4WhLycY9d+YkToxAsYjA7ArMgAI=) format('woff2')}
+.t{font-family:'Inter',ui-sans-serif,system-ui,'Segoe UI',Helvetica,Arial,sans-serif}
+]]></style>
+<clipPath id="qc"><rect width="224" height="34" rx="11"/></clipPath>
+
+<linearGradient id="qg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.055"/>
+  <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0.022"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.010"/>
+</linearGradient>
+<linearGradient id="qe" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.155"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.050"/>
+</linearGradient>
+<linearGradient id="qh" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.17"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="qa" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.30"/>
+  <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="qr" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45"/>
+  <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<filter id="qs" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000000" flood-opacity="0.42"/>
+</filter>
+<filter id="qb" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="34"/>
+</filter>
+<linearGradient id="qt" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.02"/>
+</linearGradient>
+<filter id="qdg" x="-500%" y="-500%" width="1100%" height="1100%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="2.4"/>
+</filter>
+</defs>
+<g filter="url(#qs)">
+  <rect x="0.5" y="0.5" width="223" height="33" rx="11" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="223" height="33" rx="11" fill="url(#qg)"/>
+  <rect x="0.5" y="0.5" width="223" height="33" rx="11" fill="url(#qt)"/>
+</g>
+<rect x="0.5" y="0.5" width="223" height="33" rx="11" fill="none" stroke="url(#qe)" stroke-width="1"/>
+<rect x="45" y="1" width="134" height="1" fill="url(#qh)"/>
+<circle cx="19.0" cy="17.0" r="5" fill="#38BDF8" filter="url(#qdg)">
+  <animate attributeName="opacity" values="0.20;0.70;0.20" dur="3.6s" repeatCount="indefinite"
+    calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
+  <animate attributeName="r" values="4;7;4" dur="3.6s" repeatCount="indefinite"
+    calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
+</circle>
+<circle cx="19.0" cy="17.0" r="3.0" fill="#38BDF8"/>
+<text class="t" x="33.0" y="20.9" font-size="11.0" font-weight="600"
+      letter-spacing="1.6" fill="#E9EFF7" fill-opacity="0.93">OPEN TO OPPORTUNITIES</text>
+</svg>
