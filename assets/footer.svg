@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="">
+  <defs>
+    <clipPath id="fClip">
+      <rect width="1200" height="130" rx="22" />
+    </clipPath>
+
+    <filter id="fSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="62" />
+    </filter>
+
+    <linearGradient id="fAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+
+    <pattern id="fGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1" />
+    </pattern>
+
+    <radialGradient id="fVignette" cx="50%" cy="50%" r="72%">
+      <stop offset="55%" stop-color="#0D1117" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.85" />
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#fClip)">
+    <rect width="1200" height="130" fill="#0D1117" />
+
+    <!-- same drifting colour field, mirrored so it reads as a bookend -->
+    <g filter="url(#fSoft)" opacity="0.9">
+      <circle cx="1000" cy="60" r="140" fill="#2563EB">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -190,30; -70,-24; 0,0" dur="17s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+      <circle cx="600" cy="70" r="155" fill="#7C3AED">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 150,-32; -130,18; 0,0" dur="21s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+      <circle cx="200" cy="64" r="140" fill="#DB2777">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 110,36; 210,-20; 0,0" dur="19s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+      <circle cx="380" cy="96" r="110" fill="#0EA5E9" opacity="0.75">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 180,-50; -90,28; 0,0" dur="24s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+    </g>
+
+    <rect width="1200" height="130" fill="url(#fGrid)" />
+    <rect width="1200" height="130" fill="url(#fVignette)" />
+
+    <g fill="#ffffff">
+      <circle cx="270" cy="42" r="2" opacity="0.45">
+        <animate attributeName="cy" values="42;24;42" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.12;0.6;0.12" dur="10s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="930" cy="52" r="2.2" opacity="0.4">
+        <animate attributeName="cy" values="52;32;52" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.1;0.55;0.1" dur="12s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <!-- breathing accent, mirrors the header underline -->
+    <rect y="98" height="3" rx="1.5" fill="url(#fAccent)" x="520" width="160">
+      <animate attributeName="width" values="150;300;150" dur="6s" repeatCount="indefinite" calcMode="spline"
+        keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" />
+      <animate attributeName="x" values="525;450;525" dur="6s" repeatCount="indefinite" calcMode="spline"
+        keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" />
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Harsha K — Turning ideas into code, one commit at a time">
+  <defs>
+    <clipPath id="hClip">
+      <rect width="1200" height="260" rx="22" />
+    </clipPath>
+
+    <filter id="hSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="72" />
+    </filter>
+
+    <filter id="hGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- sweeping highlight that travels across the name -->
+    <linearGradient id="hShine" x1="-0.6" y1="0" x2="-0.1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="40%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#9BD4FF" />
+      <stop offset="60%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#ffffff" />
+      <animate attributeName="x1" values="-0.6;1.0;-0.6" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="-0.1;1.5;-0.1" dur="7s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <linearGradient id="hAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+
+    <pattern id="hGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1" />
+    </pattern>
+
+    <radialGradient id="hVignette" cx="50%" cy="50%" r="72%">
+      <stop offset="55%" stop-color="#0D1117" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.85" />
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#hClip)">
+    <rect width="1200" height="260" fill="#0D1117" />
+
+    <!-- slowly drifting colour field -->
+    <g filter="url(#hSoft)" opacity="0.9">
+      <circle cx="210" cy="120" r="155" fill="#2563EB">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 190,44; 70,-34; 0,0" dur="17s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+      <circle cx="605" cy="140" r="170" fill="#7C3AED">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -150,-46; 130,26; 0,0" dur="21s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+      <circle cx="1000" cy="130" r="150" fill="#DB2777">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -110,52; -210,-28; 0,0" dur="19s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+      <circle cx="820" cy="200" r="120" fill="#0EA5E9" opacity="0.75">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -180,-70; 90,40; 0,0" dur="24s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.33;0.66;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" />
+      </circle>
+    </g>
+
+    <rect width="1200" height="260" fill="url(#hGrid)" />
+    <rect width="1200" height="260" fill="url(#hVignette)" />
+
+    <!-- drifting particles -->
+    <g fill="#ffffff">
+      <circle cx="160" cy="70" r="2" opacity="0.5">
+        <animate attributeName="cy" values="70;46;70" dur="9s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.15;0.65;0.15" dur="9s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="1040" cy="86" r="2.4" opacity="0.45">
+        <animate attributeName="cy" values="86;60;86" dur="11s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.1;0.6;0.1" dur="11s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="330" cy="205" r="1.8" opacity="0.4">
+        <animate attributeName="cy" values="205;182;205" dur="13s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.1;0.55;0.1" dur="13s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="900" cy="196" r="2" opacity="0.4">
+        <animate attributeName="cy" values="196;172;196" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.12;0.6;0.12" dur="10s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <!-- name + tagline -->
+    <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="127" font-size="68" font-weight="800" letter-spacing="-1.5" fill="url(#hShine)" filter="url(#hGlow)">Harsha K</text>
+      <text x="600" y="170" font-size="19" font-weight="500" letter-spacing="0.3" fill="#E6EDF3" opacity="0.88">Turning ideas into code, one commit at a time</text>
+    </g>
+
+    <!-- breathing accent underline -->
+    <rect y="196" height="3" rx="1.5" fill="url(#hAccent)" x="520" width="160">
+      <animate attributeName="width" values="150;300;150" dur="6s" repeatCount="indefinite" calcMode="spline"
+        keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" />
+      <animate attributeName="x" values="525;450;525" dur="6s" repeatCount="indefinite" calcMode="spline"
+        keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" />
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
