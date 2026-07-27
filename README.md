@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=220&color=gradient&customColorList=6,11,20&text=Harsha%20K&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Turning%20ideas%20into%20code,%20one%20commit%20at%20a%20time&descSize=18&descAlignY=53&animation=scaleIn" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=220&color=0:1E3A5F,100:3B2B63&text=Harsha%20K&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Turning%20ideas%20into%20code,%20one%20commit%20at%20a%20time&descSize=18&descAlignY=53&animation=scaleIn" width="100%" alt="banner" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Tech%20Explorer-0D1117?style=for-the-badge&labelColor=0D1117&color=EC4899" alt="Tech Explorer" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D5A8E,100:5B4494&height=3" width="100%" alt="divider" />
 
 ## 👋 Hey, I'm Harsha K
 
@@ -19,7 +19,7 @@
 - 🤖 Currently exploring **Computer Vision, NLP and Prompt Engineering** — teaching machines to see and read
 - 🤝 Open to **collaboration** on interesting projects and **new opportunities**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D5A8E,100:5B4494&height=3" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
@@ -73,19 +73,7 @@
   <img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsha-Kamaraj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Kamaraj&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=8B5CF6&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D5A8E,100:5B4494&height=3" width="100%" alt="divider" />
 
 ## 🌐 Connect With Me
 
@@ -107,4 +95,4 @@
   <img src="https://komarev.com/ghpvc/?username=Harsha-Kamaraj&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=speech&section=footer&height=120&color=0:1E3A5F,100:3B2B63" width="100%" alt="footer" />
